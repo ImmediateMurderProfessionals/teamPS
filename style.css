@@ -1,0 +1,39 @@
+body {
+  background-image: url("Background.png");
+  background-size: 320px 320px;
+  font-family: "Comic Sans MS", serif;
+}
+
+blockquote {
+  margin: 18px;
+  padding: 18px;
+  background-color: #696969;
+}
+
+.date {
+  font-style: italic;
+  font-size: 120%;
+}
+
+#toc {
+  margin: 8px;
+  padding: 8px;
+  background-color: #696969;
+  width: fit-content
+}
+
+.tocUl {
+  margin-left: 20px;
+  list-style-type: none;
+}
+
+table {
+  border-collapse: collapse;
+  background-color: #696969;
+}
+
+td, th {
+  border: 1px solid #000000;
+  text-align: left;
+  padding: 10px;
+}
